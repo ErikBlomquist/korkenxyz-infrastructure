@@ -1,8 +1,8 @@
 # korkenxyz-infrastructure
-Repo to hold infrastructure code. Terraform - S3, CloudFront, Travis CI
-
-# korkenxyz-infrastructure
-Terraform - S3, CloudFront - Travis CI
+- Terraform
+- S3
+- CloudFront
+- Travis CI
 
 1. Change the following into your own domains before running `terraform apply`.
 ```
