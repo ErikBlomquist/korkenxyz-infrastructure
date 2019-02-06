@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Dockerfile](#dockerfile)
 - [.dockerignore](#dockerignore)
-- [docker-compose.yml](#docker-compose)
+- [docker-compose.yml](#docker-compose-yml)
 - [Build and run app locally](#build-and-run-app-locally)
 - [Build and run image locally](#build-and-run-image-locally)
 - [Docker commands](#Docker-commands)
