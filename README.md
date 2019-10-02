@@ -26,6 +26,6 @@ variable "root_domain_name" {
     - webmaster@your_domain_name
     - admin@your_domain_name
 
-Once you have setup an e-mail address with your domain, run `terraform apply` and wait for 2 e-mails. Confirm those e-mails and run `terraform apply` again.
+Once you have setup an e-mail address with your domain, run `terraform apply` and wait for 2 e-mails. Confirm those e-mails and run `terraform apply` again. Alternatively, you can add Route 53 and verify your domain through DNS. However, this method saves you the cost from using Route 53.
 
 3. You should now have the certificate ready! Wait for the DNS to propagate properly and you should have your domain working shortly. One important thing to keep in mind is that CloudFront only generate certificates for us-east-1 region.
